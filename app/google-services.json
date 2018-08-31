@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "368554690707",
+    "firebase_url": "https://farmdekho-4ba30.firebaseio.com",
+    "project_id": "farmdekho-4ba30",
+    "storage_bucket": "farmdekho-4ba30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368554690707:android:c1aedaccb16cf114",
+        "android_client_info": {
+          "package_name": "com.farmdekho.info.farmdekho"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368554690707-n8dfpsm7oqto5ibdef04eg49noej4ikv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.farmdekho.info.farmdekho",
+            "certificate_hash": "886f4c9ed72e02eeaa1940425ad70b1a9d9f1dac"
+          }
+        },
+        {
+          "client_id": "368554690707-68oaqvpm2ccdukj77auutegh1a7sfd0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvTzb7gtlQdiiI4o79oUwey5_FBZqaAiQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368554690707-68oaqvpm2ccdukj77auutegh1a7sfd0b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
